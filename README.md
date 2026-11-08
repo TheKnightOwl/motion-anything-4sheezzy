@@ -1,4 +1,4 @@
-# motion-anything
+  # motion-anything
 
 <p align="center"><sub>A project in the <a href="https://github.com/nexu-io/open-design"><b>nexu.io · Open Design</b></a> family — the same team's take on motion. If motion-anything clicks for you, <a href="https://github.com/nexu-io/open-design">Open Design</a> is where the full agent-era design studio lives.</sub></p>
 
